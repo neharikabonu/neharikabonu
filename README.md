@@ -38,6 +38,23 @@
 
 ---
 
+---
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neharikabonu&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Neharika's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neharikabonu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neharikabonu&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neharikabonu&theme=react-dark&hide_border=true" alt="Contribution Graph" width="90%"/>
+</p>
+
+---
+
 ### 🌐 Connect with Me
 
 <p align="center">
