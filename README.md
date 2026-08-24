@@ -49,9 +49,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neharikabonu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Neharika's GitHub Stats" height="165" />
+  <img src="./profile/stats.svg" alt="Neharika's GitHub Stats" height="165" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neharikabonu&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Neharika's Top Languages" height="165" />
+  <img src="./profile/top-langs.svg" alt="Neharika's Top Languages" height="165" />
 </p>
 
 ---
