@@ -13,45 +13,48 @@
 
 ### 🚀 About Me
 
-- 🔭 Strengthening my fundamentals in **Java, OOP, DSA, and SQL/DBMS**
-- 🌱 Learning **Full-Stack Web Development** with HTML, CSS, JavaScript, and React
-- 💡 Building small projects to turn theory into practice
-- 🛠️ Working on **CRUD applications, frontend projects, and Java-based projects**
-- 🎯 Looking for **internship and entry-level opportunities** where I can apply my skills to real-world problems
-- 📫 Reach me at **bonuneharika@gmail.com**
+* 🌱 Learning **Full-Stack Web Development** with HTML, CSS, JavaScript, React, and Spring Boot
+* 💡 Building small projects to turn theory into practice
+* 🛠️ Working on **CRUD applications, frontend projects, Spring and Java-based projects**
+* 🎯 Looking for **internship and entry-level opportunities** where I can apply my skills to real-world problems
+* 📫 Reach me at **[bonuneharika@gmail.com](mailto:bonuneharika@gmail.com)**
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Skills & Technologies
+
+**🎨 Frontend Development**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 </p>
 
----
-
-### 📌 Featured Repositories
-
-- 🧠 **[java-learning](https://github.com/neharikabonu/java-learning)**  
-  Java fundamentals, OOP, collections, and practice code.
-
-- 💻 **[web-development](https://github.com/neharikabonu/web-development)**  
-  My journey learning HTML, CSS, JavaScript, and frontend development.
-
-- 🧩 **[java-problem-solving](https://github.com/neharikabonu/java-problem-solving)**  
-  Coding problems, DSA practice, and Java solutions.
-
-- 🛠️ **[MiniProjects](https://github.com/neharikabonu/MiniProjects)**  
-  Small hands-on projects built while learning new technologies.
-
----
-
-## 📊 GitHub Stats
+**⚙️ Backend Development**
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Neharika's GitHub Stats" height="165" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs&theme=dark" />
+</p>
 
-  <img src="./profile/top-langs.svg" alt="Neharika's Top Languages" height="165" />
+**🗄️ Databases**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+</p>
+
+**💻 Programming & Computer Science**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python&theme=dark" />
+</p>
+
+<p align="center">
+  <b>OOP • Data Structures & Algorithms • DBMS • Operating Systems • Computer Networks</b>
+</p>
+
+**🛠️ Tools & Development**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse&theme=dark" />
 </p>
 
 ---
@@ -64,15 +67,7 @@
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neharikabonu&theme=react-dark&hide_border=true" alt="Neharika's GitHub Activity Graph" width="95%" />
-</p>
-
----
-
-### 🌐 Connect with Me
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/neharika-bonu/" target="_blank">
