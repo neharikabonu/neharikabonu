@@ -26,7 +26,7 @@
 **🎨 Frontend Development**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react&theme=dark" />
 </p>
 
 **⚙️ Backend Development**
