@@ -79,15 +79,3 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=neharikabonu&color=8A2BE2&style=for-the-badge&label=Profile+Views"
-    alt="Profile Views"
-  />
-</p>
-
-<p align="center">
-  ⭐ <i>Keep learning. Keep building. Keep growing.</i> ⭐
-</p>
