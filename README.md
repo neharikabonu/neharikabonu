@@ -59,14 +59,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=neharikabonu&theme=radical&hide_border=true" alt="Neharika's GitHub Streak" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
